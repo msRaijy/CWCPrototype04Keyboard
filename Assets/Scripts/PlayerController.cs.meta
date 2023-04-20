@@ -5,6 +5,7 @@ MonoImporter:
   serializedVersion: 2
   defaultReferences:
   - powerupIndicator: {fileID: 6340846555800930989, guid: 3c8150d7c4b2fe842a901ae9b24dbb03, type: 3}
+  - rocketPrefab: {fileID: 8047041974210211393, guid: b6dbbe9433f0ff3428c55ac3fdfb0f09, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
